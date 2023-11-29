@@ -39,6 +39,29 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ![](screenshot/ss6.png)
 
+## Pertanyaan dan Tugas
+
+- Implementasikan ``konsep modularisasi`` pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
+
+## Berikut Struktur Yg Saya Buat :
+
+```
+lab9_php_database
+
+Config :
+
+- koneksi.php
+- tambah.php
+- ubah.php
+- hapus.php
+
+Layouts :
+
+- head-static.php
+- header.php
+- main.php
+- footer.php
+```
 
 
 
