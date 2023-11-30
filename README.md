@@ -45,9 +45,9 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ## Jawab
 
-Buat folder **``lab9_php_require``** pada ***(C:xampp/htdocs).***
+Buat folder ``lab9_php_require`` pada ***(C:xampp/htdocs).***
 
-Dalam folder tersebut saya membuat beberapa file khusus **``PHP``** yang nanti akan dieksekusi.
+Dalam folder tersebut saya membuat beberapa file khusus PHP yang nanti akan dieksekusi.
 
 - koneksi.php
 
@@ -81,17 +81,17 @@ Dalam folder tersebut saya membuat beberapa file khusus **``PHP``** yang nanti a
 
 ![](screenshot/ss14.png)
 
-## Output 
+## ***Output :*** 
 
 ![](screenshot/ss15.png)
 
-### ***Tambah Barang :***
+## Tambah Barang :
 
 ![](screenshot/ss16.png)
 
 ![](screenshot/ss17.png)
 
-### ***Ubah Barang :***
+## Ubah Barang :
 
 ![](screenshot/ss18.png)
 
