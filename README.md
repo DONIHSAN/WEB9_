@@ -45,23 +45,34 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ## Berikut Struktur Yg Saya Buat :
 
-```
-lab9_php_database
+>
+**lab9_php_database**
 
-Config :
-
+**config :**
 - koneksi.php
 - tambah.php
 - ubah.php
 - hapus.php
 
-Layouts :
-
+**layouts :**
 - head-static.php
 - header.php
 - main.php
+- tambah.php
+- ubah.php
 - footer.php
-```
+
+**static :**
+- css / style.css
+
+index.php
+tambah.php
+ubah.php
+>
+
+## 'Config'
+
+Dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi
 
 
 
