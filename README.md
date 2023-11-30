@@ -5,7 +5,7 @@
 |----|---|-----|------|
 |Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Pemrograman Web 1|
 
-# Web Framework
+# PHP Modularisasi Require 
 
 ## Langkah-Langkah Praktikum
 
@@ -43,45 +43,59 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 - Implementasikan ``konsep modularisasi`` pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
-## Berikut Struktur Yg Saya Buat :
+## Jawab
 
->
-**lab9_php_database**
+Buat folder **``lab9_php_require``** pada ***(C:xampp/htdocs).***
 
-**config :**
+Dalam folder tersebut saya membuat beberapa file khusus **``PHP``** yang nanti akan dieksekusi.
+
 - koneksi.php
+
+![](screenshot/ss7.png)
+
 - tambah.php
+
+![](screenshot/ss8.png)
+
 - ubah.php
+
+![](screenshot/ss9.png)
+
 - hapus.php
 
-**layouts :**
-- head-static.php
+![](screenshot/ss10.png)
+
 - header.php
-- main.php
-- tambah.php
-- ubah.php
+
+![](screenshot/ss11.png)
+
+- home.php
+
+![](screenshot/ss12.png)
+
 - footer.php
 
-**static :**
-- css / style.css
+![](screenshot/ss13.png)
 
-index.php
-tambah.php
-ubah.php
->
+- style.css
 
-## 'Config'
+![](screenshot/ss14.png)
 
-Dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi
+## Output 
 
+![](screenshot/ss15.png)
 
+### ***Tambah Barang :***
 
+![](screenshot/ss16.png)
 
+![](screenshot/ss17.png)
 
+### ***Ubah Barang :***
 
+![](screenshot/ss18.png)
 
-
-
+![](screenshot/ss19.png)
 
 
 
