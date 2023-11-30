@@ -89,11 +89,15 @@ Dalam folder tersebut saya membuat beberapa file khusus PHP yang nanti akan diek
 
 ![](screenshot/ss16.png)
 
+***Hasil :***
+
 ![](screenshot/ss17.png)
 
 ## Ubah Barang :
 
 ![](screenshot/ss18.png)
+
+***Hasil :***
 
 ![](screenshot/ss19.png)
 
